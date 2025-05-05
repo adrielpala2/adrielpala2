@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/adrielpala2">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Never Stop Learning&font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Never%20Stop%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=00ff00&vCenter=true&pause=1000&size=22"/>
+  </a>
 </p>
 
 Opa! Tudo bem? 😁
